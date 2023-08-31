@@ -1,4 +1,4 @@
-![logo](https://github.com/Dashrath-Kumar/Dashrath-Kumar/blob/main/app%20developer.gif)
+![logo](https://github.com/Dashrath-Kumar/Dashrath-Kumar/blob/main/app.gif)
 <h1 align="center">Hi 👋, I'm Dashrath Kumar Purohit</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
