@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **dashrathkumar5.er@gmail.com**
 
-- ⚡ Fun fact **I think Funny😁**
+- ⚡ Fun fact **I think I'm Funny😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
