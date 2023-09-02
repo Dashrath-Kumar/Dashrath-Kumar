@@ -1,5 +1,3 @@
-![logo](https://github.com/Dashrath-Kumar/Dashrath-Kumar/blob/main/app.gif)
-preview
 <h1 align="center">Hi 👋, I'm Dashrath Kumar Purohit</h1>
 <h3 align="center">A passionate flutter Frontend developer from India</h3>
 
