@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dashrath-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="dashrath-kumar" /> </p>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **flutter programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dashrath-Kumar](https://github.com/Dashrath-Kumar)
 
